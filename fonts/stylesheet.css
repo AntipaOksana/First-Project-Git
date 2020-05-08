@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'PLUMB';
+    src: url('PLUMB-Normal.eot');
+    src: url('PLUMB-Normal.eot?#iefix') format('embedded-opentype'),
+        url('PLUMB-Normal.woff2') format('woff2'),
+        url('PLUMB-Normal.woff') format('woff'),
+        url('PLUMB-Normal.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('Circe-Regular.eot');
+    src: url('Circe-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Circe-Regular.woff2') format('woff2'),
+        url('Circe-Regular.woff') format('woff'),
+        url('Circe-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

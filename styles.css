@@ -435,19 +435,23 @@ h1, h2, h3, h5,h4, p {
 }
 
 .footer__summary {
-    background-color: #FFC41E;
+    background-color: #30BCC9;
     display: flex;
+    max-height: 457px;
 }
 
 .footer__list-main-container {
-    margin: 65px 70px;  
+    margin: 65px 0 70px;  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
-.footer__list-main-title, .footer__link-title {
-    font-weight: 500;
-    font-size: 21px;
-    padding-bottom: 20px;
-    color: #ffffff;
+.footer__list-customer {
+    margin: 65px 0 70px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 

@@ -394,28 +394,29 @@ h1, h2, h3, h5,h4, p {
 
 }
 
-
+.news__board-second {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
 
 .news__board-second-people {
     display: flex;
     justify-content: space-between;
-    padding-top: 30px;
-    margin-right: 100px;
     
 }
 
 .news__board-second-notepad {
     display: flex;
     justify-content: space-between;
-    padding-top: 15px;
-    margin-right: 100px;
+
 }
 
 .news__board-second-mess {
     display: flex;
     justify-content: space-between;
-    padding-top: 15px;
-    margin-right: 100px;
+
 }
 
 .text__right {

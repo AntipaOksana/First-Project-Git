@@ -331,12 +331,11 @@ h1, h2, h3, h5,h4, p {
 
 }
 
-.news__board-side-img {
-    padding-bottom: 30px;;
-}
-
-.news__board-side-cars {
-    padding-bottom: 59px;
+.news__board-side {
+    display: flex;
+    flex-direction: column;
+    min-height: 489px;
+    justify-content: space-between;
 }
 
 .title__news-left {
